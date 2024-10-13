@@ -19,11 +19,11 @@ Este é um projeto simples de um **carrinho de compras** desenvolvido com **Java
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/bdancost/shopping_cart.git
    ```
 2. **Acesse a pasta do projeto**:
    ```bash
-   cd nome-do-repositorio
+   cd shopping_cart
    ```
 3. **Abra o arquivo `index.html`** em seu navegador.
 
